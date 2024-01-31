@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @zenithdharel
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python and javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me sandeshdharel82@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me sandeshdharel182@gmail.com 
+- ⚡ Fun fact: coding is amazing(-ly hard)
 
 <!---
 zenithdharel/zenithdharel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
